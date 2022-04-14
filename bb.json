@@ -1,0 +1,29 @@
+{
+  "Customers": [
+    {
+      "id": "001",
+      "name": "Jhone Dow",
+      "city": "NYC"
+    },
+
+    [
+      {
+        "id": "009",
+        "title": "json-server",
+        "author": "typicode"
+      }
+    ]
+  ],
+  "comments": [
+    {
+      "id": 34,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "typicode"
+    }
+  ]
+}

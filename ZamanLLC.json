@@ -1,0 +1,152 @@
+{
+  "Customers": [
+    {
+      "id": 100,
+      "name": "Jhone Dow",
+      "city": "NYC"
+    },
+    {
+      "id": 101,
+      "name": "Arman Ahmed",
+      "city": "LA"
+    },
+    {
+      "id": 103,
+      "name": "Khosruz Zaman",
+      "city": "Hudson"
+    },
+    {
+      "id": 104,
+      "name": "Liza Zaman",
+      "city": "NYC"
+    },
+    {
+      "id": 105,
+      "name": "Liza Zaman",
+      "city": "NYC"
+    },
+    {
+      "id": "013",
+      "name": "Liza Zaman",
+      "city": "NYC"
+    },
+    {
+      "name": "Arif Chy",
+      "city": "Ozonpark",
+      "id": 106
+    },
+    {
+      "name": "Arif Khan",
+      "city": "NYC",
+      "id": 107
+    },
+    {
+      "name": "",
+      "city": "Ozonpark",
+      "id": 108
+    },
+    {
+      "name": null,
+      "city": "Ozonpark",
+      "id": 109
+    },
+    {
+      "name": 1234,
+      "city": "Ozonpark",
+      "id": 110
+    },
+    {
+      "name": "**&444",
+      "city": "Ozonpark",
+      "id": 111
+    },
+    {
+      "name": "Sarvin",
+      "id": 112
+    },
+    {
+      "name": "",
+      "id": 113
+    },
+    {
+      "name": "Sarvin",
+      "id": 114
+    },
+    {
+      "name": "Sarvin",
+      "id": 115
+    },
+    {
+      "name": "3456*",
+      "city": "Ozonpark",
+      "id": 116
+    },
+    {
+      "city": "Ozonpark",
+      "id": 117
+    },
+    {
+      "name": "Sarvin",
+      "id": 118
+    }
+  ],
+  "EmployeeDetails": [
+    {
+      "id": 201,
+      "lastName": "Murphy",
+      "firstName": "Diane",
+      "email": "dmurphy@classicmodelcars.com",
+      "jobTitle": "President"
+    },
+    {
+      "id": 202,
+      "lastName": "Patterson",
+      "firstName": "Mary",
+      "email": "mpatterso@classicmodelcars.com",
+      "jobTitle": "VP Sales"
+    },
+    {
+      "lastName": "Tom",
+      "firstName": "Dow",
+      "email": "mpatterso@classicmodelcars.com",
+      "jobTitle": "VP Sales",
+      "id": 203
+    },
+    {
+      "lastName": "Tom",
+      "firstName": "Dow",
+      "email": "mpatterso@classicmodelcars.com",
+      "jobTitle": "VP Sales",
+      "id": 1057
+    },
+    {
+      "lastName": "Patterson",
+      "firstName": "Mary",
+      "email": "mpatterso@classicmodelcars.com",
+      "jobTitle": "VP Sales",
+      "id": 1058
+    }
+  ],
+  "City": [
+    {
+      "id": 100,
+      "city": "Philly"
+    },
+    {
+      "id": 101,
+      "city": "LA"
+    },
+    {
+      "id": 104,
+      "city": "NYC"
+    },
+    {
+      "city": "Buffalo",
+      "id": 105
+    },
+    {
+      "city": "NC",
+      "id": 106
+    }
+  ]
+}

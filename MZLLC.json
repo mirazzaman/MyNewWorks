@@ -1,0 +1,253 @@
+{
+
+
+     "CustomersDetails": [
+            {
+        "Id": 385,
+        "customerName": "Cruz & Sons Co.",
+        "contactLastName": "Cruz",
+        "contactFirstName": "Arnold",
+        "phone": "+63 2 555 3587",
+        "addressLine": "15 McCallum Street"
+
+      },
+      {
+        "Id": 386,
+        "customerName": "L'ordine Souveniers",
+        "contactLastName": "Moroni",
+        "contactFirstName": "Maurizio ",
+        "phone": "0522-556555",
+        "addressLine": "Strada Provinciale 124"
+     
+      },
+      {
+        "Id": 398,
+        "customerName": "Tokyo Collectables, Ltd",
+        "contactLastName": "Shimamura",
+        "contactFirstName": "Akiko",
+        "phone": "+81 3 3584 0555",
+        "addressLine": "2-2-8 Roppongi"
+
+      },
+      {
+        "Id": 406,
+        "customerName": "Auto Canal+ Petit",
+        "contactLastName": "Perrier",
+        "contactFirstName": "Dominique",
+        "phone": "(1) 47.55.6555",
+        "addressLine": "25, rue Lauriston"
+      },
+      {
+        "Id": 409,
+        "customerName": "Stuttgart Collectable Exchange",
+        "contactLastName": "Müller",
+        "contactFirstName": "Rita ",
+        "phone": "0711-555361",
+        "addressLine": "Adenauerallee 900"
+      },
+      {
+        "Id": 412,
+        "customerName": "Extreme Desk Decorations, Ltd",
+        "contactLastName": "McRoy",
+        "contactFirstName": "Sarah",
+        "phone": "04 499 9555",
+        "addressLine": "101 Lambton Quay"
+      },
+      {
+        "Id": 415,
+        "customerName": "Bavarian Collectables Imports, Co.",
+        "contactLastName": "Donnermeyer",
+        "contactFirstName": "Michael",
+        "phone": " +49 89 61 08 9555",
+        "addressLine": "Hansastr. 15"
+      },
+      {
+        "Id": 424,
+        "customerName": "Classic Legends Inc.",
+        "contactLastName": "Hernandez",
+        "contactFirstName": "Maria",
+        "phone": "2125558493",
+        "addressLine": "5905 Pompton St."
+      },
+      {
+        "Id": 443,
+        "customerName": "Feuer Online Stores, Inc",
+        "contactLastName": "Feuer",
+        "contactFirstName": "Alexander ",
+        "phone": "0342-555176",
+        "addressLine": "Heerstr. 22"
+      }
+
+],
+    "EmployeeDetails": [
+      [
+        {
+          "employeeNumber": 1619,
+          "lastName": "King",
+          "firstName": "Tom",
+          "extension": "x103",
+          "email": "tking@classicmodelcars.com",
+          "officeCode": "6",
+          "reportsTo": 1088,
+          "jobTitle": "Sales Rep"
+        },
+        {
+          "employeeNumber": 1621,
+          "lastName": "Nishi",
+          "firstName": "Mami",
+          "extension": "x101",
+          "email": "mnishi@classicmodelcars.com",
+          "officeCode": "5",
+          "reportsTo": 1056,
+          "jobTitle": "Sales Rep"
+        },
+        {
+          "employeeNumber": 1625,
+          "lastName": "Kato",
+          "firstName": "Yoshimi",
+          "extension": "x102",
+          "email": "ykato@classicmodelcars.com",
+          "officeCode": "5",
+          "reportsTo": 1621,
+          "jobTitle": "Sales Rep"
+        },
+        {
+          "employeeNumber": 1702,
+          "lastName": "Gerard",
+          "firstName": "Martin",
+          "extension": "x2312",
+          "email": "mgerard@classicmodelcars.com",
+          "officeCode": "4",
+          "reportsTo": 1102,
+          "jobTitle": "Sales Rep"
+        }
+      ]
+    ],
+    "Orders": [
+      [
+        {
+          "officeCode": "1",
+          "city": "San Francisco",
+          "phone": "+1 650 219 4782",
+          "addressLine1": "100 Market Street",
+          "addressLine2": "Suite 300",
+          "state": "CA",
+          "country": "USA",
+          "postalCode": "94080",
+          "territory": "NA"
+        },
+        {
+          "officeCode": "2",
+          "city": "Boston",
+          "phone": "+1 215 837 0825",
+          "addressLine1": "1550 Court Place",
+          "addressLine2": "Suite 102",
+          "state": "MA",
+          "country": "USA",
+          "postalCode": "02107",
+          "territory": "NA"
+        },
+        {
+          "officeCode": "3",
+          "city": "NYC",
+          "phone": "+1 212 555 3000",
+          "addressLine1": "523 East 53rd Street",
+          "addressLine2": "apt. 5A",
+          "state": "NY",
+          "country": "USA",
+          "postalCode": "10022",
+          "territory": "NA"
+        },
+        {
+          "officeCode": "4",
+          "city": "Paris",
+          "phone": "+33 14 723 4404",
+          "addressLine1": "43 Rue Jouffroy D'abbans",
+          "addressLine2": null,
+          "state": null,
+          "country": "France",
+          "postalCode": "75017",
+          "territory": "EMEA"
+        },
+        {
+          "officeCode": "5",
+          "city": "Tokyo",
+          "phone": "+81 33 224 5000",
+          "addressLine1": "4-1 Kioicho",
+          "addressLine2": null,
+          "state": "Chiyoda-Ku",
+          "country": "Japan",
+          "postalCode": "102-8578",
+          "territory": "Japan"
+        },
+        {
+          "officeCode": "6",
+          "city": "Sydney",
+          "phone": "+61 2 9264 2451",
+          "addressLine1": "5-11 Wentworth Avenue",
+          "addressLine2": "Floor #2",
+          "state": null,
+          "country": "Australia",
+          "postalCode": "NSW 2010",
+          "territory": "APAC"
+        },
+        {
+          "officeCode": "7",
+          "city": "London",
+          "phone": "+44 20 7877 2041",
+          "addressLine1": "25 Old Broad Street",
+          "addressLine2": "Level 7",
+          "state": null,
+          "country": "UK",
+          "postalCode": "EC2N 1HN",
+          "territory": "EMEA"
+        }
+      ]
+    ],
+    "Payment": [
+      [
+        {
+          "customerNumber": 357,
+          "checkNumber": "AG240323",
+          "paymentDate": "2003-12-16",
+          "amount": 20220.04
+        },
+        {
+          "customerNumber": 357,
+          "checkNumber": "NB291497",
+          "paymentDate": "2004-05-15",
+          "amount": 36442.34
+        },
+        {
+          "customerNumber": 362,
+          "checkNumber": "FP170292",
+          "paymentDate": "2004-07-11",
+          "amount": 18473.71
+        },
+        {
+          "customerNumber": 362,
+          "checkNumber": "OG208861",
+          "paymentDate": "2004-09-21",
+          "amount": 15059.76
+        },
+        {
+          "customerNumber": 363,
+          "checkNumber": "HL575273",
+          "paymentDate": "2004-11-17",
+          "amount": 50799.69
+        },
+        {
+          "customerNumber": 363,
+          "checkNumber": "IS232033",
+          "paymentDate": "2003-01-16",
+          "amount": 10223.83
+        },
+        {
+          "customerNumber": 363,
+          "checkNumber": "PN238558",
+          "paymentDate": "2003-12-05",
+          "amount": 55425.77
+        }
+      ]
+]
+}
